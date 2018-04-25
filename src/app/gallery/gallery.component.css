@@ -1,0 +1,9 @@
+#thumbNailList {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}.thumbnails{
+  margin: 5px;
+ }
